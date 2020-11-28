@@ -1,4 +1,4 @@
-# python-sdk, based on https://github.com/snowroll/python-sdk.git
+# python-sdk
 # 打包方法
 ## 打包方法一：
 1. python setup.py bdist_egg    
@@ -15,3 +15,5 @@
 ## 安装和使用SDK二：
 1. pip install xxx.whl --user
 2. import demo 在python程序中，调用安装好的demo包, demo.hell()
+
+Reference: https://github.com/xfeng986/python-sdk.git
